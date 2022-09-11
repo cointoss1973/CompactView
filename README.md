@@ -1,14 +1,23 @@
 # CompactView
 
+Viewer for SQL Server CE database files (sdf).
+
+---
+
+## Original
+
+CompactView_1.4.16 / 2018-11-26	
 https://sourceforge.net/projects/compactview/
 
+```
 ===========================================================================
 CompactView
 Viewer for Microsoft(R) SQL Server(R) Compact Edition Database files
 Copyright (C) 2011-2018 Iván Costales Suárez
 ===========================================================================
+```
 
-## LICENSE
+### LICENSE
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free
@@ -24,7 +33,7 @@ received a copy of the GNU General Public License along with this program.
 If not, see  http://www.gnu.org/licenses/
  
 
-## COMPILATION OF SOURCE CODE
+### COMPILATION OF SOURCE CODE
 
 You can use Microsoft Visual Studio 2013 (including Express version) to 
 compile the source code. Another possible option is to use SharpDevelop 5
